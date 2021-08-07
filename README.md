@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bhuvith22
+- 👋 Hi, I'm Ashwini 
 - 👀 I’m interested in Shell Scripting
 - 🌱 I’m currently learning Linux Systems
 - 💞️
-- 📫 How to reach me ...
+- 📫 
+.
 
 <!---
 Bhuvith22/Bhuvith22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
